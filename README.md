@@ -16,4 +16,4 @@ Practicing criminal defense in Italy and researching the intersection of artific
 #### Links & Publications
 - Law Practice: **[cattarini.legal](https://cattarini.legal)**
 - Legal AI Research & Education: **[IAperAvvocati.it](https://IAperAvvocati.it)**
-- Legal Methodology & Academy: **[ChatLeg.pro](https://chatleg.pro)**
+- Legal AI Tool Created by Me: **[ChatLeg.pro](https://chatleg.pro)**
